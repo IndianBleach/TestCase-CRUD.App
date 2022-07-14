@@ -1,0 +1,12 @@
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Core\bin\Debug\net6.0\CRUDApp.Core.deps.json
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Core\bin\Debug\net6.0\CRUDApp.Core.dll
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Core\bin\Debug\net6.0\CRUDApp.Core.pdb
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Core\obj\Debug\net6.0\CRUDApp.Core.csproj.AssemblyReference.cache
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Core\obj\Debug\net6.0\CRUDApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Core\obj\Debug\net6.0\CRUDApp.Core.AssemblyInfoInputs.cache
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Core\obj\Debug\net6.0\CRUDApp.Core.AssemblyInfo.cs
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Core\obj\Debug\net6.0\CRUDApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Core\obj\Debug\net6.0\CRUDApp.Core.dll
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Core\obj\Debug\net6.0\refint\CRUDApp.Core.dll
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Core\obj\Debug\net6.0\CRUDApp.Core.pdb
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Core\obj\Debug\net6.0\ref\CRUDApp.Core.dll

@@ -1,0 +1,15 @@
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\obj\Debug\net6.0\CRUDApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\obj\Debug\net6.0\CRUDApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\obj\Debug\net6.0\CRUDApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\obj\Debug\net6.0\CRUDApp.Infrastructure.AssemblyInfo.cs
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\obj\Debug\net6.0\CRUDApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\bin\Debug\net6.0\CRUDApp.Infrastructure.deps.json
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\bin\Debug\net6.0\CRUDApp.Infrastructure.dll
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\bin\Debug\net6.0\CRUDApp.Infrastructure.pdb
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\bin\Debug\net6.0\CRUDApp.Core.dll
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\bin\Debug\net6.0\CRUDApp.Core.pdb
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\obj\Debug\net6.0\CRUDApp.Infrastructure.csproj.CopyComplete
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\obj\Debug\net6.0\CRUDApp.Infrastructure.dll
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\obj\Debug\net6.0\refint\CRUDApp.Infrastructure.dll
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\obj\Debug\net6.0\CRUDApp.Infrastructure.pdb
+C:\Users\indiansummer\Desktop\CRUDApp\CRUDApp\src\CRUDApp.Infrastructure\obj\Debug\net6.0\ref\CRUDApp.Infrastructure.dll
